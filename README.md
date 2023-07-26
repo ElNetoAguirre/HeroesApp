@@ -10,10 +10,6 @@ Cuenta con un buscador, el cual muestra sugerencias o autocompleta al momento de
 
 Existe una sección con una pequeña área de *Autenticación* o *Login*, la cual no es funcional, pero sirve para mostrar el uso de diferentes estilos en los layouts de la aplicación.
 
-En la sección del Usuario ...
-
-
-
 Algunos conceptos utilizados para la generación de ésta App, son:
 
 1. Rutas Hijas.
